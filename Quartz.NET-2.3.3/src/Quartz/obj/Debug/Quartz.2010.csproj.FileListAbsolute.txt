@@ -1,0 +1,12 @@
+D:\Learning\Quartz.NET-2.3.3\build\4.0\Debug\Quartz\Quartz.dll
+D:\Learning\Quartz.NET-2.3.3\build\4.0\Debug\Quartz\Quartz.pdb
+D:\Learning\Quartz.NET-2.3.3\build\4.0\Debug\Quartz\Quartz.xml
+D:\Learning\Quartz.NET-2.3.3\src\Quartz\obj\Debug\Quartz.2010.csprojResolveAssemblyReference.cache
+D:\Learning\Quartz.NET-2.3.3\src\Quartz\obj\Debug\Quartz.dll
+D:\Learning\Quartz.NET-2.3.3\src\Quartz\obj\Debug\Quartz.pdb
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\build\4.0\Debug\Quartz\Quartz.dll
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\build\4.0\Debug\Quartz\Quartz.pdb
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\build\4.0\Debug\Quartz\Quartz.xml
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\src\Quartz\obj\Debug\Quartz.2010.csprojResolveAssemblyReference.cache
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\src\Quartz\obj\Debug\Quartz.dll
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\src\Quartz\obj\Debug\Quartz.pdb

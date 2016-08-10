@@ -1,0 +1,6 @@
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\build\4.0\Debug\Quartz.Tests.Integration\Quartz.Tests.Integration.dll.config
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\build\4.0\Debug\Quartz.Tests.Integration\Quartz.Tests.Integration.dll
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\build\4.0\Debug\Quartz.Tests.Integration\Quartz.Tests.Integration.pdb
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\src\Quartz.Tests.Integration\obj\Debug\Quartz.Tests.Integration.2010.csprojResolveAssemblyReference.cache
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\src\Quartz.Tests.Integration\obj\Debug\Quartz.Tests.Integration.dll
+D:\Porjects\MyGitHubProjects\Quartz.NETSourceCode\Quartz.NET-2.3.3\src\Quartz.Tests.Integration\obj\Debug\Quartz.Tests.Integration.pdb
